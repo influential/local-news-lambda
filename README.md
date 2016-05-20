@@ -5,7 +5,7 @@ You need Grunt CLI installed globally:
 ```sh
 $ npm install -g grunt-cli
 ```
-Once you've clone the repository:
+Once you've cloned the repository:
 ```sh
 $ npm install
 ```
