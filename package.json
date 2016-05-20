@@ -1,0 +1,25 @@
+{
+  "name": "local-news-lambda",
+  "version": "1.0.0",
+  "description": "finds local news articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/influential/local-news-lambda"
+  },
+  "author": "Jason Huntrods",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-aws-lambda": "^0.12.0"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "aws-sdk": "^2.2.43",
+    "request": "^2.69.0",
+    "url": "^0.11.0"
+  }
+}
