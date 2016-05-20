@@ -1,0 +1,6 @@
+dist
+Gruntfile.js
+.gitignore
+.DS_Store
+*.md
+*.iml
