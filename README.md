@@ -1,7 +1,7 @@
 # local-news-lambda
 Part of a local news scanning application. This AWS Lambda function takes a list of sitemaps and home pages that belong to local news websites, then efficiently extracts all links from them.
 ### Installation
-You need Grunt CLI installed globally:
+You need the Grunt CLI installed globally:
 ```sh
 $ npm install -g grunt-cli
 ```
